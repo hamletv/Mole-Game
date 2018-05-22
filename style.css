@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-size: 10px;
-  background: #ffc600;
+  background: #03c607;
 }
 
 *, *:before, *:after {
@@ -19,6 +19,13 @@ h1 {
   font-size: 10rem;
   line-height:1;
   margin-bottom: 0;
+}
+
+#button {
+  text-align: center;
+  width: 10%;
+  margin-left: 45%;
+  margin-right: 45%;
 }
 
 .score {
